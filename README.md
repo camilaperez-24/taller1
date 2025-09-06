@@ -37,3 +37,5 @@ El taller permitió integrar teoría, práctica y revisión de tecnologías:
 - Con los *métodos de detección de errores*, se reforzó la importancia de garantizar la integridad de datos en la transmisión.  
 - Los *ejemplos prácticos* ayudaron a visualizar cómo cada técnica detecta fallas específicas.  
 - El análisis de *patentes RS-232* evidenció que, pese a su antigüedad, esta interfaz sigue evolucionando para adaptarse a los retos actuales de integración, aislamiento y eficiencia energética en comunicaciones industriales.
+
+- En el archivo llamado taller 1 y que esta adjunto a este repositorio, se encuentra el taller desglosado.
